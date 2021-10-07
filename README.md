@@ -1,5 +1,7 @@
 # work-finder
- Job Finder app made by Flutter Sdk, just a small ui challenge made with my friend [dev_.nandha](https://www.instagram.com/dev_.nandha/)
+ Job Finder app made by Flutter Sdk, just a small ui challenge made with my friend [dev_.nandha](https://www.instagram.com/dev_.nandha/), we tried to make this ui made by [Taras Migulko](https://dribbble.com/ui_migulko) :
+ ![ea8316f3ff930a5b245878ae7744d1f6](https://user-images.githubusercontent.com/91676840/136417130-70819ae8-b29c-4e35-add9-bd5fec326c06.png)
+
 
 
 ## Used Packages :
